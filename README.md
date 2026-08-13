@@ -61,13 +61,17 @@
               <dd>
                 This project is an ESP32-Python-C++ project heavily focused on making a component that is portable and modular.
               </dd>
-              <dt>Hadware</dt>
+              <dt>Hardware</dt>
               <dd>ESP32 WROOM 32 Nodemcu, DHT11, Custom LDR light sensor, 128x64 pixels OLED SSD1306 display</dd>
               <dt>Languages/Libraries</dt>
               <dd>
-                Python, JavaScript, C++, MQTT protocol, Web Socket JS, 
+                Python, JavaScript, C++ 
               </dd>
-            </dl>
+              <dt>Protocols</dt>
+              <dd>
+               MQTT protocol, Web Socket, 
+              </dd>  
+            </dt>
           </details>
         </td>
         <td>
