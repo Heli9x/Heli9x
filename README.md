@@ -10,7 +10,7 @@
         <li>🗄️ <b>Databases:</b> MYSQL<sup>basics</sup>, custom Python-Json DBs</li>
     </td>
     <td>
-    <h3>💻️ Working on</h3>
+    <h1>💻️ Working on</h1>
     <table border=0>
       <tr>
         <td>Project Name</td>
