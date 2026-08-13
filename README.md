@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/90834258?v=4" alt="Heli9x Labs Logo" width="200px" />
+  
+</p>
 <table border=0>
   <tr>
     <td>
-      <h1 align="center">⚡ Hello World, Heli9x Labs!</h1>
+      <h1 align="center">⚡ Hello World!</h1>
       <q>It's not a bug, it's an undocumented feature 💀... 😂</q>
       <h3>🚀 Technologies I Use</h3>
       <ul>
