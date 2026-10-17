@@ -2,6 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/90834258?v=4" alt="Heli9x Labs Logo" width="200px" />
   
 </p>
+
 <table border=0>
   <tr>
     <td>
@@ -88,3 +89,6 @@
     </td>
   </tr>
 </table>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Heli9x&layout=donut&langs_count=4&hide_values=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Heli9x&layout=donut&langs_count=4&hide_values=true&theme=transparent)
+
